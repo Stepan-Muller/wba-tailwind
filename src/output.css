@@ -570,6 +570,11 @@ video {
   z-index: 10;
 }
 
+.mx-9 {
+  margin-left: 36px;
+  margin-right: 36px;
+}
+
 .mx-\[50px\] {
   margin-left: 50px;
   margin-right: 50px;
@@ -885,6 +890,11 @@ video {
   .md\:text-base {
     font-size: 1rem;
     line-height: 1.5rem;
+  }
+
+  .mx-\[50px\] {
+    margin-left: 50px;
+    margin-right: 50px;
   }
 }
 
